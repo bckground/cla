@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "jcmfernandes",
+      "id": 1144866,
+      "comment_id": 3330453038,
+      "created_at": "2025-09-24T19:54:50Z",
+      "repoId": 729622174,
+      "pullRequestNo": 118
+    }
+  ]
 }
